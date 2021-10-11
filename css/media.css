@@ -1,0 +1,255 @@
+@media(max-width:769px){
+    .navbar-light .navbar-toggler {
+        border-color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0px;
+        display: inline-block;
+        margin-top: 6px;
+    }
+    .navbar-light .navbar-nav .nav-link::before,  .navbar-light .navbar-nav .nav-link::after {
+        bottom: -6px;
+ 
+    }
+    .filter_button button {
+        margin-bottom: 16px;
+    }
+    .heading h2 {
+        font-size: 35px;
+    }
+    .lf-story_content h2 {
+        font-size: 30px;
+        margin-top: 35px;
+    }
+}   
+
+}
+@media(max-width:575px){
+    .lf-story_content h2 {
+        font-size: 34px;
+    }
+}
+
+@media(max-width:425px){
+    .recent_content h5 {
+        font-size: 17px;
+    }
+    .banner h2,.banner h1 {
+        text-align: center;
+        font-size: 35px;
+    }
+    .recent_content h5 {
+        font-size: 17px;
+    }
+    .service_box_orange h5 {
+        font-size: 12px;
+    }
+}
+@media (max-width:375px){
+    .filter_button button:hover {
+        letter-spacing: 0;
+    }
+    .recent_content_img {
+        display: none;
+    }
+    .recent_content {
+        width: 99%;
+    }
+    .btn_get_start {
+        padding: 6px 25px;
+
+    }
+    .btn_get_start{
+        margin-bottom: 10px;
+    }
+    .banner h2, .banner h1 {
+        font-size: 30px;
+    }
+}
+@media (max-width:320px){
+
+}
+@media(max-width:375px) and (min-width:320px){
+    .btn_get_start{
+        margin-bottom: 0px;
+    }
+}
+@media(max-width:320px){
+    .btn_get_start{
+        margin-bottom: 10px;
+    }
+    .banner h2, .banner h1 {
+        font-size: 24px;
+    }
+    .filter_button button:hover {
+        letter-spacing: 1px;
+    }
+    .service_box_orange h5 {
+        font-size: 12px;
+    }
+    .lf-story_content h2 {
+        font-size: 26px;
+    }
+    .heading h2 {
+        font-size: 30px;
+    }
+    .clent_box_content {
+        padding: 10px 5px;
+    }
+}
+
+@media(max-width:769px) and (min-width:575px){
+    .banner h2,.banner h1{
+        font-size: 33px;
+    }
+    .recent_content p {
+        margin-bottom: 50px;
+    }
+    .recent_content h6 {
+        margin-top: 10px;
+
+    .heading h2 {
+        font-size: 35px;
+    }
+}
+@media(max-width:425px) and (min-width:375px){
+    .btn_get_start{
+        margin-bottom: 0px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media(max-width:768px) and (min-width:0px){
+
+    .navbar-light .navbar-toggler {
+        color: rgb(255 255 255);
+        border-color: rgb(255 255 255);
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin-top: 5px;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        bottom: -5px;
+    }
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: -5px;
+    }
+    .banner_content h1 {
+        font-size: 33px;
+    }
+    .banner_content h2 {
+        font-size: 33px;
+    }
+    .about_md{
+        display: none;
+    }
+    .filter_button button {
+        margin-top: 25px;
+    }
+    .heading h2 {
+        font-size: 40px;
+    }
+    .recent_story_box {
+        width: 80%;
+        margin: auto;
+    }
+    .recent_content p {
+        margin-bottom: 43px;
+        line-height: 30px;
+    }
+    .recent_content h6 {
+        margin-top: 23px;
+    }
+   
+}
+
+
+
+
+
+
+
+@media(max-width:575px){
+    .about_img {
+        margin-bottom: 40px;
+    }
+
+    .filter_button {
+        padding: 35px 12px;
+    }
+    .banner_content h1{
+        font-size: 33px;
+        text-align: center;
+    }
+    .banner_content h2{
+        font-size: 33px;
+        text-align: center;
+    }
+}
+
+@media(max-width:425px){
+    .service_box_orange h5 {
+        font-size: 12px;
+    }
+    .recent_content h5{
+        font-size: 16px;
+    }
+    .lf-story_content h2 {
+        font-size: 35px;
+    }
+    .banner_content h2 {
+        font-size: 24px;
+    }
+    .btn_group {
+        margin-top: 56px;
+    }
+}
+@media(max-width:375px){
+    .btn_get_start {
+        padding: 6px 26px;
+    }
+}
+
+@media(max-width:320px){
+    .btn_get_start {
+        margin-bottom: 13px;
+    }
+    .sm_device{
+        width: 250px;
+    }
+} */
